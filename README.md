@@ -3,6 +3,7 @@ mongoregistry
 
 A very simple command-line key/value store based on mongoDb.
 
+```
 Usage: registry.rb COMMAND COLLECTION KEY VALUE [OPTIONS]
 
 Commands
@@ -17,3 +18,4 @@ Options
     -p, --port                       mongodb server port
     -d, --database                   mongodb database
         --help                       help
+```
